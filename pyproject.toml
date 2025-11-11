@@ -6,9 +6,11 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "bs4>=0.0.2",
+    "dotenv>=0.9.9",
     "jupyter>=1.1.1",
     "numpy>=2.3.4",
     "pandas>=2.3.3",
+    "rich>=14.2.0",
     "ruff>=0.14.4",
     "ty>=0.0.1a26",
 ]
